@@ -1,5 +1,5 @@
 import openmdao.api as om
-import c5demo as dsc 
+import class5.c5demo as dsc 
 
 
 #set up the problem
